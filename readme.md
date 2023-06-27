@@ -1,1 +1,1 @@
-Simple music creation program using MIDI to create sound using shapes. 
+Simple music creation program using Java and MIDI to create sound using shapes. 
